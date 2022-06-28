@@ -1,0 +1,7 @@
+calendar_table.content:
+  path: '/calendar_table'
+  defaults:
+    _form: '\Drupal\calendar_table\Form\CalendarTable'
+    _title: 'Guest book'
+  requirements:
+    _permission: 'access content'

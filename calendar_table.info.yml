@@ -1,0 +1,5 @@
+name: calendar_table
+description: Form with months, quarters, year.
+core_version_requirement: ^9
+package: Custom
+type: module
